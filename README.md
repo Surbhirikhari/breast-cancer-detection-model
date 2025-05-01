@@ -15,4 +15,4 @@ This project includes:
 ---
 
 ## ✅ Model Accuracy
-[Model Accuracy](assets/model accuracy)
+[Model Accuracy](assets/accuracy.png)
