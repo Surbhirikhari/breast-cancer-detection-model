@@ -11,3 +11,8 @@ This project includes:
 - Feature scaling using StandardScaler
 - Logistic Regression model
 - Evaluation using accuracy, confusion matrix, and classification report
+
+---
+
+## ✅ Model Accuracy
+[Model Accuracy](assets/model accuracy.png)
